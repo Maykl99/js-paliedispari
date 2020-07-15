@@ -16,3 +16,4 @@ function palindromo(nome,risultato=''){
     }
     return str + ' ' + risultato;
 } 
+
