@@ -10,7 +10,7 @@ function palindromo(nome,risultato=''){
         risultato += nome[i];
     }
     if(risultato === nome){
-        risultato += ' la parola è palindroma'
+        risultato += ' la parola è palindroma';
     }
     return risultato;
 }
