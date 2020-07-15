@@ -3,7 +3,7 @@ Chiedere all'utente di inserire una parola
 Creare una funzione per capire se la parola inserita è palindroma */
 
 var nome= prompt('scrivi una parola');
-console.log(palindromo(nome))
+console.log(palindromo(nome));
 
 
 function palindromo(nome,risultato=''){
