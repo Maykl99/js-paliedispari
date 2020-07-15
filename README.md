@@ -1,2 +1,2 @@
-js-paliedispari //-> In questa breve applicazione, chiede all'utente attraverso la funzione prompt di inserire un valore stringa, una parola, il compito della funzione da me create e di verificare se il valore passato sia una parola palindroma. Se la parola è palindroma la funzione ritorna un messaggio di conferma. 
+js-paliedispari //-> In questa breve applicazione, chiedo all'utente attraverso la funzione prompt di inserire un valore stringa, una parola, il compito della funzione da me create e di verificare se il valore passato sia una parola palindroma. Se la parola è palindroma la funzione ritorna un messaggio di conferma. 
 La funzione è inizializzata con due argomenti, il secondo argomento ha valore iniziale vuoto ('').
