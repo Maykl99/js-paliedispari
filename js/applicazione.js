@@ -9,6 +9,9 @@ function palindromo(nome,risultato=''){
     for(var i=nome.length-1; i>=0; i--){
         risultato += nome[i];
     }
+    if(risultato === nome){
+        risultato += ' la parola è palindroma'
+    }
     return risultato;
 }
 
